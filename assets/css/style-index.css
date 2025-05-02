@@ -9,17 +9,17 @@ body{
   background-color: rgba(252, 252, 252, 0.966);
   padding-block: 200px;
   padding-inline: 130px;
-  background-image: url("../img/home2.jpg");
+  background-image: url("../img/homeee.jpg");
   background-repeat: no-repeat;
 background-size: cover;
 background-position:center center;
 }
 h1,h2,p {
-  color: rgb(223, 61, 77);
-  font-family: fantasy  ;
-  size: 10px;
- -webkit-text-stroke-width: 1px;
- -webkit-text-stroke-color: rgb(12, 29, 37) ;
+  color: rgb(255, 253, 253);
+  font-family: gabriola  ;
+  size: 30px;
+ -webkit-text-stroke-width: 2px;
+ -webkit-text-stroke-color: rgb(7, 48, 69);
 }
 a{
    color: rgb(218,165,32);
